@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://github.com/palilonc/milonerzy/blob/main/w-milionerach-padlo-pytanie-za-milion-i-wygrana.jpeg?raw=true');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 20px;
+    color: white;
+}
